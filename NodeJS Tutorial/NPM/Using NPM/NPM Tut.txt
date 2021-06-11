@@ -8,4 +8,7 @@ then search for the module u want in https://www.npmjs.com/
 then type npm install packageName or npm i packageName to install the package
 after installing all the details about using the package is given in that very package
 
+
+Some packages are given in different txt file with its description about what they do !!
+
 THANK YOU !!
