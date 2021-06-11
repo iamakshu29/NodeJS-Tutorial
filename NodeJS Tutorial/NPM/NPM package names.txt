@@ -1,0 +1,6 @@
+NPM MODULE NAMES
+
+superheroes - gives you random superheroes name.
+supervillains - gives you random supervillains name.
+chalk - make your terminal output colored.
+validator - form validation (chaeck thapa technical node.js video (13))

@@ -1,0 +1,2 @@
+when adding a html file to normal req.url it takes too long to respond ie (req.url == '/')
+but when a html file is repond on a particular req.url it responds quickly ie (req.url == '/abc')

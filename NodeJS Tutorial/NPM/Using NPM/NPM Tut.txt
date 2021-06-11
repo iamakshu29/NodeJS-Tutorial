@@ -1,0 +1,11 @@
+in terminal open the path where u want to install the node package manager 
+ie npm
+
+then type node file name
+then type npm init
+enter the details like author name, description of file, git repository (if any), etc
+then search for the module u want in https://www.npmjs.com/
+then type npm install packageName or npm i packageName to install the package
+after installing all the details about using the package is given in that very package
+
+THANK YOU !!
